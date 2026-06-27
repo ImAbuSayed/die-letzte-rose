@@ -1,0 +1,10 @@
+# Cryptographic Proof of Authorship Log - Die letzte Rose
+
+This log tracks the cryptographic history and versioning for the song **Die letzte Rose** (die-letzte-rose).
+
+| Timestamp | Version | Clean SHA-256 Hash | Raw SHA-256 Hash | Backup File |
+|:----------|:--------|:-------------------|:-----------------|:------------|
+| 2026-06-27T23:44:23.756774 | `v1` | `02efea8b5579fdf42df778feaad843ee84137dadb493e231d876eef1e17a17a0` | `b9175815ab2277e48b5ce37bc4565bf3b880a17348be33c6898cf66a76f2030d` | `2026-06-27_die-letzte-rose-v1.txt` |
+
+---
+*Written and Curated by Abu Sayed*

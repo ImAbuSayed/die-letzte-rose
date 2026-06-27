@@ -15,7 +15,7 @@
 | **Written On** | June 24, 2026 |
 | **Song Page** | [Open Song Page](https://imabusayed.github.io/die-letzte-rose/) |
 | **License** | [View License](./LICENSE.md) |
-| **Get License** | [Get License For Die letzte Rose](https://music.abusayed.com.bd/Licensing/?https://imabusayed.github.io/die-letzte-rose/) |
+| **Get License** | [Official Music Licensing for Die letzte Rose](https://music.abusayed.com.bd/Licensing/?https://imabusayed.github.io/die-letzte-rose/) |
 | **Author** | Abu Sayed |
 | **Rights** | All Rights Reserved |
 
@@ -110,7 +110,7 @@ This song is an original creative work by Abu Sayed. All lyrics, melody, and com
 |:-------------------|:------------|
 | **Author** | Abu Sayed |
 | **Version** | `v1` |
-| **SHA-256 Hash** | `N/A` |
+| **SHA-256 Hash** | `02efea8b5579fdf42df778feaad843ee84137dadb493e231d876eef1e17a17a0` |
 | **Timestamp** | June 27, 2026 |
 
 See [LICENSE.md](./LICENSE.md) for full terms and conditions.
