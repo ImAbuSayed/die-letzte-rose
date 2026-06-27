@@ -15,7 +15,7 @@
 | **Written On** | June 24, 2026 |
 | **Song Page** | [Open Song Page](https://imabusayed.github.io/die-letzte-rose/) |
 | **License** | [View License](./LICENSE.md) |
-| **Get License** | [Commercial Licensing for Die letzte Rose](https://music.abusayed.com.bd/Licensing/?https://imabusayed.github.io/die-letzte-rose/) |
+| **Get License** | [Get License For Die letzte Rose](https://music.abusayed.com.bd/Licensing/?https://imabusayed.github.io/die-letzte-rose/) |
 | **Author** | Abu Sayed |
 | **Rights** | All Rights Reserved |
 
@@ -32,7 +32,10 @@
 
 ## 📝 Lyric Preview
 
-> [Excerpt will appear here after the final lyric is saved.]
+> Die ganze Stadt ist laut, doch ich hör' nur deinen Namen
+> Spür' die 808 im Brustkorb, wir sprengen den Rahmen
+> Lass uns fliehen durch die Nacht, lass die Zweifel hinter dir
+> Du bist meine letzte Rose, Baby, bleib heut Nacht bei mir
 > ...
 
 [**View Full Lyrics**](./lyrics.txt) | [**View Metadata**](./manifest.json) | [**View Proofs**](./hashes.txt)
